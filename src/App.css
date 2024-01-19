@@ -1,0 +1,19 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 10%;
+  background-color: white;
+}
+input {
+  color: lightgray;
+}
+.logo_gallery {
+  display: flex;
+  margin-left: 35px;
+  gap: 5px;   
+}
+p {
+  padding: 5px;
+}
